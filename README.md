@@ -1,7 +1,7 @@
 # Multimodal_AVR
 
 Here is a demostration video submitted to the Interspeech 2024 conference itself that contains the preview of our Tkinter application reviewing any video for its humorous content and checking for the predictions, whether it is Humorous or Non-Humorous.
-[![Profile Banner](Interspeech_First_Intro_Page.png)](https://github.com/MT23083/Multimodal_AVR/blob/main/Interspeech_2024.mp4)
+[![Profile Banner](Interspeech_First_Intro_Page.png)](https://drive.google.com/file/d/1szVDejYAwHGkO_e9dLsz2vJ_3nBqrsnj/view?usp=sharing)
 
 
 - Tkinter App User Interface while uploading a video in this framework
