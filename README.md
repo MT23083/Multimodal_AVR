@@ -6,4 +6,4 @@ Here is a demostration video submitted to the Interspeech 2024 conference itself
 
 - Tkinter App User Interface while uploading a video in this framework
   - We got the buttons to upload the video and check for its predictions (Humor/Non-Humor)
-  - ![Profile Banner](https://drive.google.com/file/d/1JQDSkD_wXPDwPKBQYrshGNp1v5F_Tcdn/view?usp=sharing)
+![Profile Banner](https://drive.google.com/file/d/1JQDSkD_wXPDwPKBQYrshGNp1v5F_Tcdn/view?usp=sharing)
