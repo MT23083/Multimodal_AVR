@@ -13,7 +13,7 @@ Here is a demostration video submitted to the Interspeech 2024 conference itself
 - Embeddings shape came out to be of the shape (768,)
 -  Audio Spectrogram Transformer Model is used to obtain the embeddings from (.wav) format audio files.
    - Audio embeddings shape came out to be (768,n).
-   - where n can be any numerical value based on the audio spectrogram vectors.
+     - where n can be any numerical value based on the variable vector size of audio files.
 - Taking the average of those vectors and making it a single vector (768,) helped to feed it to the neural network as shape mismatch wouldn't occur for different audio files.
 
 ## 2. LanguageBind Embeddings
