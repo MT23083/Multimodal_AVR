@@ -1,4 +1,4 @@
-# Multimodal_AVR
+# AVR: Synergizing Foundation Models for Audio-Visual Humor Detection
 
 ## Publication
 
