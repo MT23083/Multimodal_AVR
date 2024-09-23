@@ -4,9 +4,9 @@
 
 Link to the published Interspeech 2024 Show & Tell Demonstration paper is given here
 
-[Arxiv Link](https://arxiv.org/abs/2406.10448)
+[Interspeech2024 Proceedings Link](https://www.isca-archive.org/interspeech_2024/sharma24b_interspeech.pdf)
 
-You can access the arxiv link and get to know about the following research project.
+You can access the Interspeech 2024 official proceedings and get to more know about the following research project.
 
 ---
 
